@@ -1,0 +1,13 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "description": "Wedding Invitation with Supabase RSVP",
+  "main": "index.html",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
